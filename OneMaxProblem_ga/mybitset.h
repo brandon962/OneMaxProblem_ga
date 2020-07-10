@@ -9,6 +9,7 @@ class MyBitSet {
 public:
 	vector <bool> bit_map;
 	int bitsize;
+	int np;
 
 public:
 	MyBitSet() {
