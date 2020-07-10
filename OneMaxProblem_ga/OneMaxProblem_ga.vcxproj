@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="OneMaxProblem_ga.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="algoclass.h" />
+    <ClInclude Include="mybitset.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
