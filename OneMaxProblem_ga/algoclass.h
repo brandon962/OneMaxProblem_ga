@@ -27,7 +27,7 @@ public:
 	void init();
 	AlgoClass() {};
 	void initial();
-	int evaluation();
+	int FitnessFunction();
 	void transition();
 	void run();
 	void writefile();
